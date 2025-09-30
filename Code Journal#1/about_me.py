@@ -1,3 +1,9 @@
+"""
+Write a Python program to print out your full name,
+your preferred pronouns (optional),
+and two sentences about your
+favorite movie and your favorite food.
+"""
 # git push straight from pycharm
 class Student:
     def __init__(self, name, pronouns, movie, food):
