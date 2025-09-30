@@ -14,7 +14,7 @@ def main():
         data.append([start, math.sin(start)])
         start = start + increment_size
 
-    table = tabulate(data, header,floatfmt=".10f", tablefmt="github")
+    table = tabulate(data, header,floatfmt=".10f", tablefmt="github",)
 
     print(table)
 
