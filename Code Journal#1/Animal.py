@@ -46,5 +46,5 @@ class cat():
 
 
 
-random_cat = cat(9,9,2,True,True)
+random_cat = cat(9.0,9.0,2,True,True)
 random_cat.print()
